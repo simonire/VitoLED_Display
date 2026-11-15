@@ -165,7 +165,7 @@ Vito 采用 CH32V305GBU6 搭配 CherryUSB 协议栈，在主机侧呈现为 HID 
 | 显示模组     | 5.5 英寸触摸屏      | SMI550-E66 / D66 / B66 | 1    | 1080 × 1920，使用与模组匹配的初始化配置                      |
 | 视频转换     | DP 转 MIPI DSI 芯片 | LT7911D                | 1    | 配套项目显示固件                                             |
 | 触摸主控     | MCU                 | CH32V305GBU6           | 1    | 运行触摸驱动与 CherryUSB HID 固件                            |
-| 外部接口     | USB Type-C 母座     | CX90M-16P              | 1    | 核对安装方式、板厚及外壳开口                                 |
+| 外部接口     | USB Type-C 母座     | GT-USB-7064A           | 1    | 核对安装方式、板厚及外壳开口                                 |
 | 屏幕偏置电源 | 正负压电源芯片      | LP3102QVF              | 1    | 输入 V33S，VP / VN 分别连接 LCD_P / LED_N；使能信号为 LCDP_EN，输出电压未在图中标明 |
 | 背光电源     | 背光驱动芯片        | SY7203DBC              | 1    | 输入 V33S，输出连接 BL_A，FB 连接 BL_LED1_N；EN/PWM 由 LCD_PWM_OUT 控制 |
 | 电源转换     | 1.8 V 稳压芯片      | WL2803E18-5/TR         | 1    | 输入 V33S，输出 VCC_1V8                                      |

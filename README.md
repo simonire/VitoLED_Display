@@ -105,7 +105,7 @@ Vito 采用 CH32V305GBU6 搭配 CherryUSB 协议栈，在主机侧呈现为 HID 
 
 - `CH32V305_DJI055_MCU.hex`
 
-使用 WCH-LinkE USB 转 SWD 工具，通过板载图中 **橙色** 处引脚进行烧录。
+使用 WCH-LinkE USB 转 SWD 工具，通过板载图中 **橙色** 处引脚进行烧录。[点击此处下载](https://www.wch.cn/downloads/WCH-LinkUtility_ZIP.html)
 
 ### 6.2 LT7911D 烧录方式
 

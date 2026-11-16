@@ -9,6 +9,8 @@ Vito Type-C 是一款参考 PocketTouch 显示方案、基于 DJI RM330 初代�
 
 同Github项目地址：[simonire/VitoLED_Display: 基于Dji屏幕的一线通TypeC触摸显示屏](https://github.com/simonire/VitoLED_Display)
 
+同立创开源项目地址：[【DJI_VitoLED】TypeC一线通显示器 - 立创开源硬件平台](https://oshwhub.com/lemon_wifi/project_bpfywlmr)
+
 ## 2. 主要特性
 
 | 项目       | 参数或说明                       |
